@@ -1,0 +1,13 @@
+com\kgisl\spzomato\SpzomatoApplication.class
+com\kgisl\spzomato\service\OrderServiceImpl.class
+com\kgisl\spzomato\service\UserService.class
+com\kgisl\spzomato\service\CustomerService.class
+com\kgisl\spzomato\repository\UserRepository.class
+com\kgisl\spzomato\entity\User.class
+com\kgisl\spzomato\entity\Order.class
+com\kgisl\spzomato\repository\OrderRepository.class
+com\kgisl\spzomato\service\OrderService.class
+com\kgisl\spzomato\repository\CustomerRepository.class
+com\kgisl\spzomato\entity\Customer.class
+com\kgisl\spzomato\service\UserServiceImpl.class
+com\kgisl\spzomato\service\CustomerServiceImpl.class
